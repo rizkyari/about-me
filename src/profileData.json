@@ -1,0 +1,132 @@
+{
+  "landing": {
+    "firstName": "Rizky Ariananda",
+    "lastName": "Hartono",
+    "phoneNumber": "+62-81348620644",
+    "bio": "I am a person who like to learn something new and challenge myself. Recently, I just graduated from bootcamp at DumbWays. In there we learn to create a fully functional Mobile App. Even though I'm still new in programming world, I'm quite familiar with code and willing to learn more with enthusiasm.",
+    "email": "rizkyari4121@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/rizkyarihar/",
+    "github": "https://github.com/rizkyari",
+    "facebook": "https://www.facebook.com/rizky.ariananda.7",
+    "instagram": "https://www.instagram.com/rizkyarihartono/"
+  },
+  "experience": [
+    {
+      "position": "Quality Control",
+      "organization": "PT Multibrata Anugerah Utama",
+      "aboutWork": "Control and the distribution of all the companies quality documentation, Perform all internal and external audits on behalf of the companies management, and Making sure that the building quality as good as company standard",
+      "fromDate": "2017",
+      "toDate": "2018"
+    },
+    {
+      "position": "Document Control",
+      "organization": "PT Multibrata Anugerah Utama",
+      "aboutWork": "Handling the document control procedures and maintain quality records, and Make sure the information provided is accurate and up to date",
+      "fromDate": "2017",
+      "toDate": "2016"
+    },
+    {
+      "position": "Internship",
+      "organization": "Axisjaya Construction Sdn. Bhd.",
+      "aboutWork": "Help Supervisor to check the progress of the building and create weekly report",
+      "fromDate": "September 2014",
+      "toDate": "November 2014"
+    }
+  ],
+  "education": [
+    {
+      "university": "Limkokwing University Of Creative Technology",
+      "degree": "Bachelor of Science in Construction Management",
+      "gpa": "GPA : 3.56",
+      "fromDate": "July 2012",
+      "toDate": "July 2015"
+    },
+    {
+      "university": "Limkokwing University Of Creative Technology",
+      "degree": "Foundation In Built Environment",
+      "gpa": "GPA : 3",
+      "fromDate": "July 2011",
+      "toDate": "July 2012"
+    },
+    {
+      "university": "SMA NEGERI 5 Balikpapan",
+      "degree": "Major In Science",
+      "gpa": "-",
+      "fromDate": "July 2010",
+      "toDate": "July 2012"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Nodejs"
+    },
+    {
+      "name": "ExpressJS"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "AutoCAD"
+    }
+  ],
+  "interests": {
+    "paragraphOne": "Apart from coding and programming, I like to watch football and sometimes also play futsal with friends. Football is the people's game. As a spectacle it is more dramatic than the greatest action blockbuster, its more profound than high art and redolent with literal and symbolic meaning alike. To be around friends and playing something that you like. And to see a lot of people playing and supporting something I guess. Football brings people together. Thats what I like about football",
+    "paragraphTwo": "Beside football, I like to spend some my me-time with wander around the city or playing some games to relieve my stress. When you play a game that is well made and puts you in the zone it gives you a hit of dopamine which makes you happy."
+  },
+  "awards": [
+    {
+      "awardDetail": "DumbWays.ID",
+      "awardDate": "Oct - Nov 2019",
+      "awardDesc": "Bootcamp for 6 weeks to learn React Native"
+    },
+    {
+      "awardDetail": "Brain O Meter",
+      "awardDate": "03 September 2019",
+      "awardDesc": "Learn how to make dynamic website",
+      "awardLink": "https://drive.google.com/file/d/1U8A2oKYJiNPVLeOMyfQpCDZx-w5uk3g5/view?usp=sharing"
+    },
+    {
+      "awardDetail": "Dicoding Indonesia",
+      "awardDate": "21 August 2019",
+      "awardDesc": "Learn basic of web programming",
+      "awardLink": "https://drive.google.com/file/d/1kYK3mJ7jh_CmfZZfyZ3aSwz7XCdSK3fe/view?usp=sharing"
+    },
+    {
+      "awardDetail": "Pintaar 101",
+      "awardDate": "16 August 2019",
+      "awardDesc": "Understanding PHP basic and fundamentals",
+      "awardLink": "https://drive.google.com/file/d/1msakGG6oHPrgt_cZ7K-bJgoz75NsOGYD/view?usp=sharing"
+    },
+    {
+      "awardDetail": "Sololearn",
+      "awardDate": "August 2019",
+      "awardDesc": "Learn HTML & CSS fundamentals also Javascript",
+      "awardLink": "https://drive.google.com/file/d/1jobAwjMroRfa3FFLPTZXeeUEBpD0wDLS/view?usp=sharing"
+    },
+    {
+      "awardDetail": "PIKMI Rajawali",
+      "awardDate": "April 2016",
+      "awardDesc": "AutoCAD 2d & 3d",
+      "awardLink": "https://drive.google.com/file/d/1AcJVwGGviajhw0LaY8_0NaFrY3rRWjQm/view?usp=sharing"
+    },
+    {
+      "awardDetail": "Bina Nusantara (Binus)",
+      "awardDate": "15 April 2016",
+      "awardDesc": "Learn logical and visual programming of JAVA",
+      "awardLink": "https://drive.google.com/file/d/18KuC_KleKag2SzB1F_G7jQ8iehhqK3rY/view?usp=sharing"
+    }
+  ]
+}
